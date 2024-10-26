@@ -11,23 +11,24 @@ Code Repos:
 
 (Private) https://github.com/Skyy93/uni160kWX_submission
 
-:crown: 2. **The 2rd place on the leaderboard (Recall@1 95.88)**
-
-(Private) https://github.com/wangzhiyu918/2024-MM-Drone-Satellite-Matching-Challenge
-
-:crown: 3. **The 3th place on the leaderboard (Recall@1 94.57)**
+:crown: 2. **The 3th place on the leaderboard (Recall@1 94.57)**
 
 (Private) https://github.com/wanxingDaze/MM_workshop
 
-:crown: 4. **The 4th place on the leaderboard (Recall@1 94.07)**
+:crown: 3. **The 4th place on the leaderboard (Recall@1 94.07)**
 
 (Public) https://github.com/SunJ1025/WAGL
 
-:crown: 5. **The 5th place on the leaderboard (Recall@1 85.58)**
+:crown: 4. **The 5th place on the leaderboard (Recall@1 85.58)**
 
 (Public) https://github.com/koorter/WELN
 
+### Notice:
+We apologize for removing the following teams due to incomplete submissions.
 
+**The 2rd place on the leaderboard (Recall@1 95.88 Owing to the withdrawal of manuscript)**
+
+(Private) https://github.com/wangzhiyu918/2024-MM-Drone-Satellite-Matching-Challenge
 
 
 ### Codalab Leaderboard
